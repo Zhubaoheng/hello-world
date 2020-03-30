@@ -1,4 +1,3 @@
 # hello-world
-
-i love fishc!
+print('halloworld')
 
